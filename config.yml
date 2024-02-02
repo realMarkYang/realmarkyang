@@ -1,6 +1,6 @@
 # source program: https://github.com/xyming108/sulv-hugo-papermod
 
-baseURL: https://realmarkyang.github.io/ # 绑定的域名
+baseURL: https://realmarkyang.vercel.app/ # 绑定的域名
 languageCode: zh # en-us
 title: ✪ Mark Yang
 theme: hugo-PaperMod  # 主题名字，和themes文件夹下的一致
