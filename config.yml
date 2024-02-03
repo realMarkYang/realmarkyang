@@ -108,7 +108,7 @@ params:
     imageWidth: 150
     imageHeight: 150
     buttons:
-      - name: 🧱 项目1
+      - name: 🧱 项目
         url: posts/blog
       - name: 👨🏻‍💻 技术
         url: posts/tech
