@@ -14,11 +14,9 @@ Language：English | [中文](https://github.com/xyming108/sulv-hugo-papermod)
 
 There are many personal information in the template that need to be configured by yourself. Please be patient to modify it. You can refer to the blogger's website building tutorial:[ https://www.sulvblog.cn/posts/blog/ ]( https://www.sulvblog.cn/posts/blog/ )
 
-## 4. Hugo blog exchange group
 
-🎉🎉 787018782 🎉🎉
 
-## 5. How to use shortcodes
+## 4. How to use shortcodes
 
 `bilibili: {{< bilibili BV1Fh411e7ZH(填 bvid) >}}`
 
